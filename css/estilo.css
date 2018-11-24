@@ -1,0 +1,19 @@
+
+div{
+    display: inline-block;
+    font-size: 48px;
+    padding: 35px;
+}
+li{
+    width: 10%;
+background-color: red;
+margin-bottom: 4px;
+
+}
+.par{
+    background-color: blue
+}
+
+.impar{
+    background-color: red
+}
